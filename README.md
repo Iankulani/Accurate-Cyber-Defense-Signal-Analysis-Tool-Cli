@@ -5,10 +5,14 @@ Users run scripted pipelines, filter by protocol or IP ranges, and visualize sum
 Built for automation, it integrates with SIEMs, alerting systems, and incident response playbooks. 
 Secure by design, it offers role-based access, audit logging, and modular plugin support for threat hunting, forensic export, and rapid remediation.
 
-**How to clone the repo**
+## How to clone the repo
+```bash
 
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Signal-Analysis-Tool-Cli.git
+cd Accurate-Cyber-Defense-Signal-Analysis-Tool-Cli
+```
 
-**How to run**
-
+## How to run
+```bash
 python Accurate-Cyber-Defense-Signal-Analysis-Tool-Cli.py
+```
